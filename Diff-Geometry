@@ -1,0 +1,14 @@
+How to solve dT / dl = F(l) where T and F are tensors.? 
+
+This differential equation is essentially an initial value problem for a tensor-valued function of a scalar variable. The equation
+
+				𝑑𝑇 / 𝑑𝑙 = 𝐹(𝑙)
+
+states that the rate of change of the tensor 𝑇(l) with respect to the scalar parameter l is given by another tensor F(l). 
+In many applications—ranging from continuum mechanics to differential geometry— T and F might represent, for example, stress tensors, metric tensors, or other geometric objects. 
+The key to solving the equation is to use integration in a manner that is analogous to solving a scalar ordinary differential equation, but applied component-wise.
+Below is a step-by-step explanation of how to solve the problem.
+
+1. Understanding the Tensor Equation
+Component Interpretation
+Assume that T(l) and F(l) are tensors whose components depend on the parameter l. In a coordinate system, if T(l) has components 
