@@ -13,5 +13,5 @@ Below is a step-by-step explanation of how to solve the problem.
 Component Interpretation
 Assume that T(l) and F(l) are tensors whose components depend on the parameter l. In a coordinate system, if T(l) has components 
 
-$\frac{dT}{dl} = F(l)$
+$$\frac{dT}{dl} = F(l)$$
 
