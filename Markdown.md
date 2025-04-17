@@ -16,3 +16,4 @@ $\frac{\frac{x}{1}}{x - y}$	      \frac{\frac{x}{1}}{x - y}
 
 $^3/_7$	                          ^3/_7
 
+$dT / _dl = F(l)$                dT / _dl = F(l)
