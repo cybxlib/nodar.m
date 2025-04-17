@@ -16,6 +16,6 @@ $\frac{\frac{x}{1}}{x - y}$	      \frac{\frac{x}{1}}{x - y}
 
 $^3/_7$	                          ^3/_7
 
-$\begin{equation}
+\begin{equation}
 \frac{\partial Q}{\partial t} = \frac{\partial s}{\partial t}
-\end{equation}$
+\end{equation}
