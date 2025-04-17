@@ -16,4 +16,4 @@ $\frac{\frac{x}{1}}{x - y}$	      \frac{\frac{x}{1}}{x - y}
 
 $^3/_7$	                          ^3/_7
 
-$\dv{T}{l} = F(l)$                frac{\partial T}{\partial l} = F(l)
+$\dv{Q}{t} = F(l) \quad$                frac{\partial T}{\partial l} = F(l)
