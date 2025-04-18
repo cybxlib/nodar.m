@@ -16,7 +16,7 @@ Symbol	            Script
 
 # $^3/_7$	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ^3/_7
 
-# $\dfrac{T}{l} = F(l)$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \dfrac{T}{l} = F(l)
+# $\dfrac{dT}{dl} = F(l)$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \dfrac{dT}{dl} = F(l)
 
 # I'm a markdown file.
 
