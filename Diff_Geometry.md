@@ -1,15 +1,3 @@
-# GitLab Flavored Markdown (GLFM)
-https://docs.gitlab.com/user/markdown
-
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-
-$$
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-$$
-
-$$
-  \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}
-$$
 
 //https://gemini.google.com/app/f1028b0bf34ac37c?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all
 
