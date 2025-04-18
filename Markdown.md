@@ -1,6 +1,6 @@
 Symbol	            Script
 
-# $k_{n+1}$	I = &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; k_{n+1}
+# $k_{n+1}$	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; k_{n+1}
 
 # $n^2$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;n^2
 
