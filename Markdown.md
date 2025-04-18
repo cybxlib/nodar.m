@@ -16,7 +16,7 @@ Symbol	            Script
 
 # $^3/_7$	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ^3/_7
 
-# $\frac{\partial T}{\partial l} = F(l)$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \frac{\partial T}{\partial l} = F(l)
+# $\frac{T}{l} = F(l)$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \frac{T}{l} = F(l)
 
 # I'm a markdown file.
 
