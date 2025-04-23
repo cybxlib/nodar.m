@@ -1,4 +1,4 @@
-
+//https://mymathapps.com/mymacalc-sample/MYMACalc3/Part%20I%20-%20Geometry%20&%20Vectors/CurveProps/Frenet.html
 //https://gemini.google.com/app/f1028b0bf34ac37c?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all
 
 Ах, я понимаю ваше желание моделировать движение объекта с независимыми смещениями в разных направлениях. 
