@@ -48,7 +48,7 @@ dθ / dl = ω( l )
 Таким образом, в трёхмерном пространстве описание одномерной кривой требует учитывать не только изменение угла поворота касательной, 
 но и изменение ориентации осциллирующей плоскости, что приводит к системе уравнений Френе-Серра.
 ====================================================================================================================
----Two-dimensional space--------------------------------------------
+## Two-dimensional space--------------------------------------------
 
 "I have an equation da/dl = f(l) on a plane, where 'a' is the rotation angle of the curve, and 'l' is the distance traveled.
 a = integral of f(l) * dl.
@@ -67,7 +67,7 @@ f(l) corresponds to the curvature.
 When f(l) = 0, you get a straight line,
 and with a constant f(l), you get a circle (with appropriate scaling).
 
----Three-dimensional space--------------------------------------------
+## Three-dimensional space--------------------------------------------
 
 In three-dimensional space, one function is not enough to describe a curve, as in addition to curvature, the concept of torsion appears, reflecting how the osculating plane (defined by the tangent and normal) rotates around the tangent. The classical description here is the Frenet-Serret system of equations:
 
