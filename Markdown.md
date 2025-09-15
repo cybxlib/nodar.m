@@ -33,3 +33,4 @@ Symbol	            Script
 
 ### $I = \int \rho R^{2} dV$
 
+### $\sum_{p \in P} (t_{p,last} - t_{p,first} - \sum_{i \in Proc_p} d_i)$	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\sum_{p \in P} (t_{p,last} - t_{p,first} - \sum_{i \in Proc_p} d_i)$
